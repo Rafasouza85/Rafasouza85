@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Eu sou Rafael Programador Front-End, atualamente estou aprendendo e criando alguns projetos com:
+Eu sou Rafael Programador Front-End, atualmente estou aprendendo e criando alguns projetos com as tecnologias abaixo:
 <br>
 <br>
  
