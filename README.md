@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there :pencil:
 
 Eu sou Rafael Programador Front-End, atualmente estou aprendendo e criando alguns projetos com as tecnologias abaixo:
 <br>
