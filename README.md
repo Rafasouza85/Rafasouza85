@@ -1,6 +1,6 @@
 ### Hi there :pencil:
 
-Eu sou Rafael Programador Front-End, atualmente estou aprendendo e criando alguns projetos com as tecnologias abaixo:
+Eu sou Rafael Programador Full Stack, atualmente estou aprendendo e criando alguns projetos com as tecnologias abaixo:
 <br>
 <br>
  
