@@ -1,5 +1,3 @@
-### Hi there :pencil:
-
 Olá! Sou um desenvolvedor Full Stack apaixonado por criar soluções inovadoras. Atualmente estou imerso em projetos desafiadores utilizando as seguintes tecnologias:
 <br>
 <br>
