@@ -1,6 +1,6 @@
 ### Hi there :pencil:
 
-Eu sou Rafael Programador Full Stack, atualmente estou aprendendo e criando alguns projetos com as tecnologias abaixo:
+Olá! Sou um desenvolvedor Full Stack apaixonado por criar soluções inovadoras. Atualmente estou imerso em projetos desafiadores utilizando as seguintes tecnologias:
 <br>
 <br>
  
